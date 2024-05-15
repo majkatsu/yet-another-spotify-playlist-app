@@ -3,6 +3,9 @@ import './App.css';
 import SearchBar from './components/SearchBar/SearchBar.js';
 
 function App() {
+
+ 
+
   return (
     <><div className="App">
       <header className="App-header">
